@@ -8,7 +8,7 @@ Para realizar a prova, não esqueça de clonar o repositório, seguindo os segui
 - Clicar no botão CODE, que há aqui acima, no lado direito
 - Selecionar a opção **HTTPS**
 - Copiar a URL que há no input abaixo ou o endereço completo citado abaixo
-  - https://github.com/ldmfabio/1INFO2_for.git
+  - https://github.com/ldmfabio/1INFO3_for.git
 
 ### **Abra o VSCode**
 
