@@ -8,11 +8,15 @@
     */
 
     //Entrada
-
-
+    let cidades = ["Rio de Janeiro", "São Paulo", "Recife", "Florianópolis", "Curitiba", "Porto Alegre", "Joinville"];
+    let visitadas = [];
     //Processamento
-
-
+    for (const item of cidades) {
+        const cidadesvisitadas = prompt(`Você já vistou ${cidades}S-Sim | N-Não `).trim().toUpperCase();
+        if (cidadesvisitadas == N){
+            visitadas.push(item);
+        }
+    }
     //Saída
 
     /*
